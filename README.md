@@ -1,5 +1,5 @@
-### Quick Notes From Luis
-Once the repo is cloned, to start run:
+### Quick Note From Luis
+Once the repo is cloned, to start it run:
 ```
 npm i
 npm run serve
